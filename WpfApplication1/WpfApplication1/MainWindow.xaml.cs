@@ -25,6 +25,7 @@ namespace WpfApplication1
             InitializeComponent();
             int adi = 1;
             int mor = 2;
+            int Hila = 4;
         }
     }
 }
