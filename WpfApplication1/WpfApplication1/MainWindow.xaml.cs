@@ -26,6 +26,7 @@ namespace WpfApplication1
             int adi = 1;
             int mor = 2;
             int ran = 3;
+            int blabla;
 
         }
     }
