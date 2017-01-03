@@ -21,7 +21,6 @@ namespace WindowsFormsApplication2
         private void Form1_Load(object sender, EventArgs e)
         {
             OleDbConnection connectiopn = new OleDbConnection();
-            //blabla
         }
     }
 }
